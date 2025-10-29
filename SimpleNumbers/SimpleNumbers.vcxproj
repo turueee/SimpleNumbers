@@ -126,9 +126,16 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="CompositeNumbersFromBillionTillSixtilion.txt" />
+    <Text Include="CompositeNumbersFromMillionTillBillion.txt" />
+    <Text Include="CompositeNumbersFromTenTillMillion.txt" />
+    <Text Include="KarmikleNumbersFromBillionTillSixtilion.txt" />
+    <Text Include="KarmikleNumbersFromMillionTillBillion.txt" />
+    <Text Include="KarmikleNumbersFromTenTillMillion.txt" />
     <Text Include="SimpleNumbersFromBillionTillSixtilion.txt" />
     <Text Include="SimpleNumbersFromBillionTillSixtilionExhaustiveSearchAlgorithm.txt" />
     <Text Include="SimpleNumbersFromBillionTillSixtilionFermaAlgorithm.txt" />
+    <Text Include="SimpleNumbersFromBillionTillSixtilionRabinMillerAlgorithm.txt" />
     <Text Include="SimpleNumbersFromMillionTillBillion.txt" />
     <Text Include="SimpleNumbersFromMillionTillBillionExhaustiveSearchAlgorithm.txt" />
     <Text Include="SimpleNumbersFromMillionTillBillionFermaAlgorithm.txt" />

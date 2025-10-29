@@ -53,5 +53,26 @@
     <Text Include="SimpleNumbersFromMillionTillBillionRabinMillerAlgorithm.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
+    <Text Include="KarmikleNumbersFromMillionTillBillion.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="KarmikleNumbersFromTenTillMillion.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="CompositeNumbersFromBillionTillSixtilion.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="CompositeNumbersFromMillionTillBillion.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="CompositeNumbersFromTenTillMillion.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="KarmikleNumbersFromBillionTillSixtilion.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="SimpleNumbersFromBillionTillSixtilionRabinMillerAlgorithm.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
   </ItemGroup>
 </Project>
