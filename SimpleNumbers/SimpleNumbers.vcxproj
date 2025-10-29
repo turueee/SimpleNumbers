@@ -126,10 +126,17 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="SimpleNumbersFromBillionTillSixtilion.txt" />
+    <Text Include="SimpleNumbersFromBillionTillSixtilionExhaustiveSearchAlgorithm.txt" />
+    <Text Include="SimpleNumbersFromBillionTillSixtilionFermaAlgorithm.txt" />
     <Text Include="SimpleNumbersFromMillionTillBillion.txt" />
     <Text Include="SimpleNumbersFromMillionTillBillionExhaustiveSearchAlgorithm.txt" />
+    <Text Include="SimpleNumbersFromMillionTillBillionFermaAlgorithm.txt" />
+    <Text Include="SimpleNumbersFromMillionTillBillionRabinMillerAlgorithm.txt" />
     <Text Include="SimpleNumbersFromTenTillMillion.txt" />
     <Text Include="SimpleNumbersFromTenTillMillionExhaustiveSearchAlgorithm.txt" />
+    <Text Include="SimpleNumbersFromTenTillMillionFermaAlgorithm.txt" />
+    <Text Include="SimpleNumbersFromTenTillMillionRabinMillerAlgorithm.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

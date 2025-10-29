@@ -32,5 +32,26 @@
     <Text Include="SimpleNumbersFromMillionTillBillionExhaustiveSearchAlgorithm.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
+    <Text Include="SimpleNumbersFromTenTillMillionFermaAlgorithm.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="SimpleNumbersFromMillionTillBillionFermaAlgorithm.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="SimpleNumbersFromBillionTillSixtilion.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="SimpleNumbersFromBillionTillSixtilionFermaAlgorithm.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="SimpleNumbersFromBillionTillSixtilionExhaustiveSearchAlgorithm.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="SimpleNumbersFromTenTillMillionRabinMillerAlgorithm.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="SimpleNumbersFromMillionTillBillionRabinMillerAlgorithm.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
   </ItemGroup>
 </Project>
