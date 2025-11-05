@@ -61,9 +61,9 @@ unsigned long long ModExp(unsigned long long os, unsigned long long pow, unsigne
 		return static_cast<unsigned long long>(1);
 	unsigned long long z = ModExp(os, pow / 2, divide);
 	if ((pow & 1) == 0)
-		return (z*z)%divide;
+		return ((z%divide)*(z%divide))%divide;
 	else
-		return (os * z * z) % divide;
+		return (((os%divide) * (z%divide))%divide * (z%divide)) % divide;
 }
 
 bool IsSimpleFermaAlgorithm(unsigned long long num)
